@@ -1,0 +1,31 @@
+{
+    "person_id": "90227475062",
+    "fullname": "Joana Silva",
+    "age": 34,
+    "contacts": [
+      {
+        "email": "joana.silva@gmail.com",
+        "telephone": null,
+        "celphone": "11997736123"
+      }
+    ],
+    "address": {
+      "street": "Rua Maria Antonia 100 apto 55",
+      "city": "SAO PAULO",
+      "state": "SAO PAULO",
+      "country": "Brazil",
+      "zipcode": "01222000"
+    },
+    "paymentMethods": [
+      "CREDIT CARD"
+    ],
+    "contract_type": "LIFE Insurances",
+    "operator": "PORTO SEGURO",
+    "apolice number": "LIN-00001",
+    "salesRepresentant": {
+      "email": null,
+      "name": "LORENA ALVEZ",
+      "phone": 1135028418
+    }
+  }
+  

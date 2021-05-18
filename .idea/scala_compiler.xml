@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="Data_Ingestion_Gatling_Test,POC_Data_Ingestion" />
+  </component>
+</project>

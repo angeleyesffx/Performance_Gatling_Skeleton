@@ -1,0 +1,36 @@
+dev:
+  baseUrl: https://porto.com/
+  auth_url: https://login.com/bgdfga55f2435284277/oauth2/v2.0/token
+  auth_client_id: client_id=0gergere234234
+  auth_scope: scope=https://getInsurances/default
+  auth_client_secret: client_secret=Yhdkdflkdywer
+  countries:
+        br:
+          life:
+              get:
+                url: /api/porto-seguro/data_Insurances
+                amount_users: 2
+                request_per_user: 10
+                template_name: person
+              post:
+                url: /api/porto-seguro/data_Insurances
+                amount_users: 2
+                request_per_user: 10
+                template_name: person
+              delete:
+                url: /api/porto-seguro/data_Insurances
+                amount_users: 2
+                request_per_user: 10
+                template_name: person
+              put:
+                url: /api/porto-seguro/data_Insurances
+                amount_users: 2
+                request_per_user: 10
+                template_name: person
+          car:
+              delete:
+                url: /api/data-ingestion-relay-service/v1
+                amount_users: 2
+                request_per_user: 10
+                template_name: person
+        

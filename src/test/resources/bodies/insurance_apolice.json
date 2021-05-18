@@ -1,0 +1,10 @@
+//This file is a PebbleBody type 
+{
+  "apolice_type":  "{{apolice_type}}",
+  "person_id":  "{{person_id}}",
+  "name": "{{name}}",
+  {% if bitrh is empty %} 
+  "bitrh": "none",
+  {% endif %}
+  "creditdata": "{{creditdata}}"
+}
