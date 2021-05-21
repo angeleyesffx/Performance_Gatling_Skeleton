@@ -27,10 +27,4 @@ dev:
                 amount_users: 2
                 request_per_user: 10
                 template_name: person
-          car:
-              delete:
-                url: /api/data-ingestion-relay-service/v1
-                amount_users: 2
-                request_per_user: 10
-                template_name: person
-        
+          
